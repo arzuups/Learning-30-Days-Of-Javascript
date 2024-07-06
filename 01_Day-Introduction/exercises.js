@@ -21,8 +21,8 @@ console.log(teacherName, herAge , isSheTeacher)
 //let 2 exercise
 let hisName = "Jack",
 hisAge = 30,
-hisIsStudent = true;
-console.log(hisName, hisAge, hisIsStudent)
+heIsStudent = true;
+console.log(hisName, hisAge, heIsStudent)
 
 //const
 const myBirthCountry = "Turkey";
