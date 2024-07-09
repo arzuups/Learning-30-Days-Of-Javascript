@@ -124,7 +124,6 @@ console.log(words6.charCodeAt(0)) //98 = ASCII code for b
 let words7 = 'book and pencil';
 console.log(words7.indexOf('book')) //0 = first index of book
 
-
 //lastIndexOf()
 let string = 'I love JavaScript. If you do not love JavaScript what else can you love.'
 
@@ -165,8 +164,3 @@ console.log(words12.match('book'))
 //repeat()
 let words13 = 'book and pencil';
 console.log(words13.repeat(3)) //book and pencilbook and pencilbook and pencil
-
-
-
-
- 
