@@ -13,7 +13,7 @@ console.log(typeof null) //object data type
 let firstName = "Arzu";
 let lastName = "Demir";
 let country = "Turkey";
-let city = "Sanliurfa"
+let city = "Sanliurfa";
 let age = 15;
 let isStudent = true;
 console.log(firstName, lastName, country, city, age, isStudent )
