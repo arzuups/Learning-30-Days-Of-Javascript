@@ -1,12 +1,10 @@
 let sentence = 'Love is the best thing in this world. Some found their love and some are still looking for their love.';
 let word = 'love';
-
 let parts = sentence.split(word);
 let count = parts.length - 1;
-
 console.log(` The '${word}' occurs ${count} in the sentence`); // The 'love' occurs 2 in the sentence
 
-let string2 = 'You cannot end a sentence with because because because is a conjunction';
+let string2 = 'You cannot end a sentence with because because because is a conjunction.';
 let word2 = 'because';
 let parts2 = string2.split(word2);
 let count2 = parts2.length - 1;
@@ -23,4 +21,3 @@ let annualBonus = 10000;
 let onlineCourseSalary = 15000;
 let annualIncome = salary + annualBonus + onlineCourseSalary
 console.log(annualIncome); // 30000 euro
-
